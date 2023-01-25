@@ -4,7 +4,7 @@ During my 5+ year stint as a Product Manager, I was always jealous of the develo
 
 As I gained more clout as a PM, I was asked to step away from the dev team & technical strategy so I could focus on the long-term product vision. This was not what I wanted. 
 
-I wanted to strategize on implementation architecture. I wanted to build. So I quit my product career in Oct 2022, and I haven't looked back.
+I wanted to strategize on implementation architecture. I wanted to build. So I quit my product career in Oct 2022 and learned to code.
 
 ### Blog posts
 
