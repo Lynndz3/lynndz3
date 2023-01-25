@@ -15,7 +15,7 @@ I wanted to strategize on implementation architecture. I wanted to build. So I q
 
 Grew up in Oakland, CA &nbsp;&nbsp;➡️&nbsp;&nbsp; lived in Chicago for 8 years &nbsp;&nbsp;➡️&nbsp;&nbsp; currently in Denver.
 
-Living that Colorado dream: weekend backpacking trips, backcountry/downhill skiing, running, climbing, breweries 🏔
+Living that Colorado stereotype: weekend backpacking trips, backcountry/downhill skiing, running, climbing, breweries 🏔
 
 <p>I'm a nerd for metaphysics and specifically the philosophy of time ⏰ 
 <p>I make a mean spicy margarita 🍹
