@@ -1,10 +1,10 @@
 ### A little background
 
-During my 5+ year stint as a Product Manager, I was always jealous of the developers. 
+During my 5+ year stint as a Product Manager, I was always jealous of the developers. They didn't just _talk_ about new products and features, they _built_ them! 
 
-They didn't just get to _talk about_ new products and features, they got to _build them_! As I gained more clout as a PM, I was asked to step away from the dev team & technical strategy so I could focus on the long-term product vision.
+As I gained more clout as a PM, I was asked to step away from the dev team & technical strategy so I could focus on the long-term product vision. This was not what I wanted. 
 
-This was not what I wanted. I wanted to strategize on implementation architecture. I wanted to build. So I quit my product career in Oct 2022, and I haven't looked back.
+I wanted to strategize on implementation architecture. I wanted to build. So I quit my product career in Oct 2022, and I haven't looked back.
 
 ### Blog posts
 
