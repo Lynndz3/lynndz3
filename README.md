@@ -5,7 +5,7 @@ I've been a Technical Product Manager for over 5 years. But in Oct 2022, I took 
 
 ### Blog posts
 
-<p><a href='https://medium.com/@lynnzukerman/product-to-programmer-why-i-gave-up-a-great-product-career-to-learn-to-code-d26e786d1c1c'>More on "why" I changed careers</a></p>
+<p><a href='https://medium.com/@lynnzukerman/product-to-programmer-why-i-gave-up-a-great-product-career-to-learn-to-code-d26e786d1c1c'>More on "why" I learned to code</a></p>
 <p><a href='https://medium.com/@lynnzukerman/musings-from-a-product-manager-turned-programmer-7c34cbd5c7e5'>Musings on my coding journey</a></p>
 
 ### Fun stuff
