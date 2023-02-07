@@ -1,10 +1,7 @@
 ### A little background
 
-During my 5+ year stint as a Product Manager, I was always jealous of the developers. They didn't just _talk_ about new products and features, they _built_ them! 
+I've been a Technical Product Manager for over 5 years. But in Oct 2022, I took a step back from product to learn computer science and programming! It was an itch I needed to scratch, and I'm so glad that I did. 
 
-As I gained more clout as a PM, I was asked to step away from the dev team & technical strategy so I could focus on the long-term product vision. This was not what I wanted. 
-
-I wanted to strategize on implementation architecture. I wanted to problem solve. So I took a step back from my product career in 2022 to learn to code.
 
 ### Blog posts
 
